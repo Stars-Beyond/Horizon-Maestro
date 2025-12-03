@@ -7,3 +7,5 @@ pub mod volume_routes;
 pub mod network_routes;
 pub mod image_routes;
 pub mod agent_routes;
+pub mod horizon_routes;
+pub mod cluster_routes;
